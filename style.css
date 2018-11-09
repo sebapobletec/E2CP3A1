@@ -214,6 +214,26 @@ body{
       border-width: 3px;
     }
 
+    #educacion{
+      margin-top:1em;
+      display: inline-block;
+    }
+
+    #hobbies{
+      margin-top:1em;
+      display: inline-block;
+    }
+
+    .educacionyear{
+      margin-top:1em;
+      display: inline-block;
+    }
+
+    #experiencia{
+      margin-top:1em;
+      display: inline-block;
+    }
+
     .estrellagris{
       color: #eeeeee;
     }
